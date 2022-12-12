@@ -41,7 +41,7 @@
        "OptA": "Static Polymorphism is where the decision to resolve which method to accomplish, is determined during the compile time. ",
       "OptB": "Dynamic Polymorphism: is where the decision to choose which method to execute, is set during the run-time",
       "OptC": "Neither a nor b.",
-      "OptD": "Both a and b.",
+      "OptD": "Both a and b",
       "correctOpt": "Both a and b."
       },
 
