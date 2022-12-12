@@ -1,5 +1,5 @@
-{ "Intermediate" : 
-  [
+{ 
+  "Intermediate" : [
     { "ID":11,
       "Question":"What is Cohesion in object-oriented programming?",
       "OptA": "Shows the relationship within the module",
