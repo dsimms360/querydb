@@ -6,7 +6,7 @@
       "OptB": "The degree to which the elements inside a module belong together",
       "OptC": "How a single class is designed",
       "OptD": "All of the above.",
-      "correctOpt": "All of the above"
+      "correctOpt": "All of the above."
       },
 
     { "ID":12,
@@ -15,7 +15,7 @@
       "OptB": "How classes interact with each other",
       "OptC": "the degree of direct knowledge that one element has of another",
       "OptD": "All of the above.",
-      "correctOpt": "All of the above"
+      "correctOpt": "All of the above."
       },
 
     { "ID":13,
@@ -40,7 +40,7 @@
       "Question":"What is the difference between static and dynamic polymorphism?",
        "OptA": "Static Polymorphism is where the decision to resolve which method to accomplish, is determined during the compile time. ",
       "OptB": "Dynamic Polymorphism: is where the decision to choose which method to execute, is set during the run-time",
-      "OptC": "Neither a nor b",
+      "OptC": "Neither a nor b.",
       "OptD": "Both a and b",
       "correctOpt": "Both a and b."
       },
@@ -51,7 +51,7 @@
       "OptB": "Protected",
       "OptC": "Private",
       "OptD": "All of the above.",
-      "correctOpt": "All of the above"
+      "correctOpt": "All of the above."
       },
 
     { "ID":17,
